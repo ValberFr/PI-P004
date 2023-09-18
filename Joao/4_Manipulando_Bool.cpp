@@ -32,7 +32,7 @@ int main(void)
   // Um char com qualquer valor diferente de \0 possui valor true
 
   cBool = '\0';
-  cout << "Um char com valor é considerado: " << bool(cBool) << endl;
+  cout << "Um char com valor 'contra-barra zero' é considerado: " << bool(cBool) << endl;
   // O char \0 possui valor false
 
   return 0;
