@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     // Variáveis de tipos diferentes
     int inteiro = 42;
     float flutuante = 2.0;
